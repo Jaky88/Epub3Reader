@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_chooser_layout.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\file_chooser_layout.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_split_panel.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\activity_split_panel.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_css.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\change_css.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_data_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\activity_data_view.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\activity_book_view.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_panel_size.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\set_panel_size.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\layout\\activity_audio_view.xml"
+    }
+]

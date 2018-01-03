@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workspaces2\epub3reader\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="E:\workspaces2\epub3reader\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_e33d2de5ce7877d9a0969dfa80bdf9f420e94793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspaces2\epub3reader\app\libs\epublib-core-latest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
+        <dex dex="E:\workspaces2\epub3reader\app\build\intermediates\pre-dexed\debug\epublib-core-latest_13478bcd217bb4b2463ecbd831179e605c409667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\workspaces2\epub3reader\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_6371dcdb1cd3fc6f302024a99fd4d4e69c4f51fd.jar" />
+    </item>
+
+</items>

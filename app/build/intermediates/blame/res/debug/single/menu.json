@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_chooser.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\split_panel.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\split_panel.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\data_view.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\audio_view.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_view.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\book_view.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tocview.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\tocview.xml"
+    },
+    {
+        "merged": "E:\\workspaces2\\epub3reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\workspaces2\\epub3reader\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
